@@ -1,0 +1,33 @@
+[33m7af79db[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mzad3[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{0}: rebase (finish): returning to refs/heads/zad3
+[33m7af79db[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mzad3[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{1}: rebase (start): checkout master
+[33m078a5ba[m HEAD@{2}: commit: selmy the basryndar i got my GOAT
+[33m56d8b4d[m HEAD@{3}: checkout: moving from master to zad3
+[33m7af79db[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mzad3[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{4}: commit: guys i add more glazes for asoiaf ngl u gon like it
+[33m56d8b4d[m HEAD@{5}: checkout: moving from zad2 to master
+[33m32659b9[m[33m ([m[1;32mzad2[m[33m)[m HEAD@{6}: commit: add more screenshots for ya
+[33m181fcc2[m HEAD@{7}: rebase (finish): returning to refs/heads/zad2
+[33m181fcc2[m HEAD@{8}: rebase (continue): Obi Wan
+[33m6958fd5[m HEAD@{9}: rebase (pick): 67
+[33m254fa14[m HEAD@{10}: rebase (pick): second try
+[33m044a20e[m HEAD@{11}: rebase (pick): lucky
+[33m29a5a6d[m HEAD@{12}: rebase (pick): aboba
+[33m56d8b4d[m HEAD@{13}: rebase (start): checkout master
+[33macbd9d0[m HEAD@{14}: checkout: moving from master to zad2
+[33m56d8b4d[m HEAD@{15}: checkout: moving from zad2 to master
+[33macbd9d0[m HEAD@{16}: checkout: moving from master to zad2
+[33m56d8b4d[m HEAD@{17}: commit: The Death of John Snow
+[33m1d05861[m HEAD@{18}: checkout: moving from zad2 to master
+[33macbd9d0[m HEAD@{19}: commit: Obi Wan
+[33m28a1ef8[m[33m ([m[1;32mzad1[m[33m)[m HEAD@{20}: checkout: moving from zad1 to zad2
+[33m28a1ef8[m[33m ([m[1;32mzad1[m[33m)[m HEAD@{21}: checkout: moving from master to zad1
+[33m1d05861[m HEAD@{22}: commit: baratheon
+[33ma41f9c4[m HEAD@{23}: commit: jaime lannister
+[33mf4ecf24[m HEAD@{24}: checkout: moving from zad1 to master
+[33m28a1ef8[m[33m ([m[1;32mzad1[m[33m)[m HEAD@{25}: commit: 67
+[33mbab77ea[m HEAD@{26}: commit: second try
+[33ma92a7c1[m HEAD@{27}: checkout: moving from master to zad1
+[33mf4ecf24[m HEAD@{28}: checkout: moving from zad1 to master
+[33ma92a7c1[m HEAD@{29}: commit: lucky
+[33m82bc4f6[m HEAD@{30}: commit: aboba
+[33mf4ecf24[m HEAD@{31}: checkout: moving from master to zad1
+[33mf4ecf24[m HEAD@{32}: commit (initial): changes
